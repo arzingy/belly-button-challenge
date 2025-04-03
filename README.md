@@ -1,8 +1,7 @@
 # JavaScript Assignment
 All the code for the application logic has been implemented in the [`app.js`](./docs/static/js/app.js) file.
 
-## Dashboard layout:
-
+## Dashboard layout
 ![Layout](./screenshots/layout.png)
 
 ## Charts
